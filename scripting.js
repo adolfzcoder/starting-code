@@ -1,3 +1,4 @@
+
 // Simple JavaScript for interactive components
 document.addEventListener("DOMContentLoaded", function () {
   // Update slider values
